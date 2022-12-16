@@ -16,5 +16,9 @@ function save() {
     countEl.textContent = 0
     count = 0
 }
-
+<script type="text/javascript">
+document.addEventListener('touchmove', function (event) {
+  if (event.scale !== 1) { event.preventDefault(); }
+}, { passive: false });
+</script>
 
