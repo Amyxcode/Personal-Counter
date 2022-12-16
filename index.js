@@ -1,3 +1,8 @@
+
+@media(min-width:900px;){
+    
+}
+
 let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
 let count = 0
@@ -14,6 +19,4 @@ function save() {
     count = 0
 }
 
-@media(min-width:900px;){
-    
-}
+
