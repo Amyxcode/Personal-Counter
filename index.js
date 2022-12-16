@@ -1,5 +1,5 @@
 
-@media(min-width:900px;){
+.window.matchMedia(min-width:900px;){
     
 }
 
