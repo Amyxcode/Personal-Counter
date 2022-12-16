@@ -1,7 +1,5 @@
 
-.window.matchMedia(min-width:900px;){
-    
-}
+
 
 let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
