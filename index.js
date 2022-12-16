@@ -14,3 +14,6 @@ function save() {
     count = 0
 }
 
+@media(min-width:900px;){
+    
+}
