@@ -2,6 +2,7 @@ body {
     background-image: url(https://wallpapercave.com/dwp1x/wp5935445.jpg);
     background-size: cover;
     font-family: Helvetica Neue;
+    font-size:28px;
     font-weight: bold;
     text-align: center;
     height:100vh;
@@ -30,10 +31,12 @@ button {
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
+    font-size:20px;
     width: 200px;
     margin-bottom: 5px;
     border-radius: 10px;
     border:1px solid black;
+    
 }
 
 #increment-btn {
