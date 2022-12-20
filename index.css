@@ -46,4 +46,7 @@ button {
 #save-btn {
     background: purple;
 }
+#undo-btn{
+    background:light-purple;
+}
 @media(minwidth:900px)
