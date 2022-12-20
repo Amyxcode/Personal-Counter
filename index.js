@@ -19,10 +19,10 @@ function save() {
 }
 
 function undo () {
-    let undo = count - 1
+    let undo = (count - 1)
     countEl.textContent=count
     saveEl.textContent -= CountStr
-    count=0
+    count= (count - 1)
 }
 
 
